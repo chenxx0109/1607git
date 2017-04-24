@@ -1,0 +1,169 @@
+[
+{
+"id": 1202238010352412700,
+"restaurant_id": 2080064,
+"restaurant_name": "鸡公煲",
+"restaurant_image_hash": "a422b69b2d4c7d82848a6e33b7281776png",
+"is_brand": 0,
+"status_bar": {},
+"formatted_created_at": "2017-02-22 10:47",
+"total_amount": 24,
+"total_quantity": 2,
+"status_code": 11,
+"is_pindan": 0,
+"is_deletable": 1,
+"is_new_pay": 1,
+"remind_reply_count": 0,
+"pay_remain_seconds": 0,
+"operation_rebuy": 2,
+"operation_upload_photo": 0,
+"operation_rate": 0,
+"operation_confirm": 0,
+"operation_pay": 0,
+"rated_point": 240,
+"basket": {},
+"unique_id": "1202238010352412766",
+"timeline_node": {},
+"top_show": 0,
+"restaurant_type": 0,
+"restaurant_image_url": "https://fuss10.elemecdn.com/a/42/2b69b2d4c7d82848a6e33b7281776png.png"
+},
+{},
+{},
+{},
+{},
+{},
+{},
+{},
+{
+"id": 1201963226909583400,
+"restaurant_id": 2080064,
+"restaurant_name": "鸡公煲",
+"restaurant_image_hash": "a422b69b2d4c7d82848a6e33b7281776png",
+"is_brand": 0,
+"status_bar": {
+"title": "订单已取消",
+"color": "grey2",
+"sub_title": "",
+"image_type": "cancel_order"
+},
+"formatted_created_at": "2017-02-16 11:08",
+"total_amount": 47,
+"total_quantity": 4,
+"status_code": -4,
+"is_pindan": 0,
+"is_deletable": 1,
+"is_new_pay": 1,
+"remind_reply_count": 0,
+"pay_remain_seconds": 0,
+"operation_rebuy": 2,
+"operation_upload_photo": 0,
+"operation_rate": 0,
+"operation_confirm": 0,
+"operation_pay": 0,
+"rated_point": 470,
+"basket": {
+"pindan_map": [],
+"abandoned_extra": [],
+"extra": [
+{
+"category_id": 12,
+"name": "(不与美食活动同享)在线支付立减优惠",
+"price": -5,
+"quantity": 1
+}
+],
+"group": [
+[
+{
+"name": "鱼香肉丝盖饭",
+"price": 12,
+"quantity": 4,
+"specs": [],
+"new_specs": [],
+"attrs": []
+}
+]
+],
+"packing_fee": {
+"category_id": 102,
+"name": "餐盒",
+"price": 4,
+"quantity": 1
+}
+},
+"unique_id": "1201963226909583454",
+"timeline_node": {
+"title": "订单已取消",
+"description": "你取消了订单",
+"actions": [],
+"in_processing": 0,
+"sub_description": ""
+},
+"top_show": 0,
+"restaurant_type": 0,
+"restaurant_image_url": "https://fuss10.elemecdn.com/a/42/2b69b2d4c7d82848a6e33b7281776png.png"
+},
+{
+"id": 1201963068943706400,
+"restaurant_id": 2042645,
+"restaurant_name": "骨汤砂锅酸辣粉",
+"restaurant_image_hash": "9f0358985361fb897b8610731a1af495jpeg",
+"is_brand": 0,
+"status_bar": {
+"title": "订单已取消",
+"color": "grey2",
+"sub_title": "",
+"image_type": "cancel_order"
+},
+"formatted_created_at": "2017-02-16 11:07",
+"total_amount": 30,
+"total_quantity": 3,
+"status_code": -1,
+"is_pindan": 0,
+"is_deletable": 1,
+"is_new_pay": 1,
+"remind_reply_count": 0,
+"pay_remain_seconds": 0,
+"operation_rebuy": 2,
+"operation_upload_photo": 0,
+"operation_rate": 0,
+"operation_confirm": 0,
+"operation_pay": 0,
+"rated_point": 300,
+"basket": {
+"pindan_map": [],
+"abandoned_extra": [],
+"extra": [],
+"group": [
+[
+{
+"name": "砂锅土豆粉",
+"price": 9,
+"quantity": 3,
+"specs": [],
+"new_specs": [],
+"attrs": []
+}
+]
+],
+"packing_fee": {
+"category_id": 102,
+"name": "餐盒",
+"price": 3,
+"quantity": 1
+}
+},
+"unique_id": "1201963068943706270",
+"timeline_node": {
+"title": "订单已取消",
+"description": "系统取消了订单，理由是“商家超时未接单:餐厅长时间未确认，为避免影响用餐，请您更换餐厅下单”(¥30.0退款将于2个工作日内原路退回)",
+"actions": [],
+"in_processing": 0,
+"sub_description": ""
+},
+"top_show": 0,
+"restaurant_type": 0,
+"restaurant_image_url": "https://fuss10.elemecdn.com/9/f0/358985361fb897b8610731a1af495jpeg.jpeg"
+}
+]
